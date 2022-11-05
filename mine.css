@@ -1,0 +1,70 @@
+@font-face {
+    font-family: SF Pro Display;
+    src: url(SFProDisplay-Heavy.woff2);
+  }
+
+* {
+    box-sizing: border-box;
+  }
+
+.back{
+    width: 1188px;
+    height: 601px;
+    background-color: #D9D9D9;
+    
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    margin: auto;
+
+    border-radius: 70px;
+
+    z-index: -1;
+}
+
+html{
+    background-color: black;
+
+    font-family: 'SF Pro Display';
+    font-weight: 900;
+    font-style: normal;
+}
+
+.img{
+    width: 284px;
+    height: 284px;
+
+    position: absolute;
+    top: 310px;
+    bottom: 310px;
+    left: 1200px;
+
+    border-radius: 150px;
+
+
+}
+
+.nome{
+    color: black;
+
+    font-size: 60px;
+
+    position: absolute;
+    top: 270px;
+    left: 425px;
+
+}
+
+.title{
+    color: black;
+
+    font-size: 30px;
+
+    position: absolute;
+    top: 340px;
+    left: 425px;
+
+}
