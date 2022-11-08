@@ -40,6 +40,8 @@ html{
     top: 7rem;
     left: 4rem;
 
+
+
 }
 
 .title{
@@ -48,6 +50,8 @@ html{
     position: absolute;
     top: 12rem;
     left: 4rem;
+
+
 
 }
 
@@ -67,6 +71,8 @@ html{
     height: 17rem;
 
     border-radius: 300px;
+
+
 }
 
 .logo-text{
@@ -76,6 +82,8 @@ html{
     text-align: center;
 
     font-size: 6rem;
+
+
 }
 
 .html-skill{
@@ -94,6 +102,8 @@ html{
 
     font-size: 1.5rem;
 
+
+
     
 }
 
@@ -101,6 +111,7 @@ html{
 
 .html-skill:hover{
     background-color: #E64A19;
-
     cursor: pointer;
+
+    transition:  all .5s;
 }
