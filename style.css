@@ -1,0 +1,10 @@
+.link{
+    color: #000;
+    text-decoration: none;
+}
+
+.divlink{
+    position: fixed;
+    right: 0;
+    top: 0;
+}
